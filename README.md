@@ -1,1 +1,1 @@
-# IOT-Smart-Care-gesture-based-assistance-
+SmartCare-IoT-Healthcare-Monitoring
